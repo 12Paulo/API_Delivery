@@ -1,0 +1,52 @@
+2023-07-10T03:39:04.780Z [delivery-api] info: API Started!
+2023-07-10T03:43:43.202Z [delivery-api] info: API Started!
+2023-07-10T03:48:55.722Z [delivery-api] info: API Started!
+2023-07-10T04:21:53.116Z [delivery-api] info: API Started!
+2023-07-10T04:21:57.087Z [delivery-api] info: API Started!
+2023-07-10T04:22:28.963Z [delivery-api] info: GET /pedido
+2023-07-10T04:23:08.325Z [delivery-api] info: GET /pedido
+2023-07-10T04:23:29.573Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:23:41.267Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:24:33.434Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:24:41.116Z [delivery-api] info: GET /pedido
+2023-07-10T04:24:54.443Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:25:47.615Z [delivery-api] info: GET /maisPedidos
+2023-07-10T04:26:26.673Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:26:31.814Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:27:12.754Z [delivery-api] info: GET /pedido
+2023-07-10T04:28:03.133Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:28:09.998Z [delivery-api] info: GET /pedido
+2023-07-10T04:28:18.557Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:28:31.486Z [delivery-api] info: GET /maisPedidos
+2023-07-10T04:29:45.080Z [delivery-api] info: GET /pedido
+2023-07-10T04:30:22.318Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:30:39.214Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:30:44.626Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:30:48.375Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:32:17.671Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:32:29.204Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:32:53.605Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:34:01.972Z [delivery-api] info: GET /pedido
+2023-07-10T04:34:08.755Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:34:35.346Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:34:40.831Z [delivery-api] info: GET /pedido
+2023-07-10T04:34:45.382Z [delivery-api] info: GET /pedido
+2023-07-10T04:35:47.729Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:35:55.311Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:35:59.883Z [delivery-api] info: GET /pedido
+2023-07-10T04:36:22.727Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:36:41.574Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:37:35.036Z [delivery-api] info: GET /pedido
+2023-07-10T04:37:55.343Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:38:35.020Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:38:44.672Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:44:47.758Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:44:52.626Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:45:52.551Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:46:13.465Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:46:26.469Z [delivery-api] error: GET /pedido - Registro não encontrado.
+2023-07-10T04:49:26.661Z [delivery-api] info: GET /pedido/:id
+2023-07-10T04:49:31.923Z [delivery-api] info: GET /pedido/:id
+2023-07-10T04:50:55.375Z [delivery-api] info: GET /maisPedidos
+2023-07-10T04:58:20.719Z [delivery-api] info: POST /pedido - {"id":502,"cliente":"Paulo Cesar","produto":"Pizza Muçarela","valor":26,"entregue":false,"timestamp":"2023-07-10T04:58:20.715Z"}
+2023-07-10T05:01:06.364Z [delivery-api] info: PUT /pedido - {"id":502,"cliente":"Paulo Cesar","produto":"Pizza Muçarela","valor":26,"entregue":true}
